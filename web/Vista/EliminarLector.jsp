@@ -1,6 +1,6 @@
 <%-- 
-    Document   : EditarBiblioteca
-    Created on : 06/08/2020, 09:29:31 AM
+    Document   : EliminarLector
+    Created on : 06/08/2020, 01:49:14 PM
     Author     : MAYRA
 --%>
 

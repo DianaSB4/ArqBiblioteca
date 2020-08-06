@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Eliminar Biblioteca
-    Created on : 06/08/2020, 09:29:46 AM
+    Document   : ListarLibro
+    Created on : 06/08/2020, 11:31:49 AM
     Author     : MAYRA
 --%>
 
